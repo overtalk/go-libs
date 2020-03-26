@@ -4,3 +4,5 @@
 
 ## libs
 - [bitset](./bitset/bitset.md)
+- [验证](./validation/validation.md)
+- [tcp池](./pool/)
